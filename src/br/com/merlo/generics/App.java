@@ -115,9 +115,9 @@ public class App {
 
                 Boolean isCadastradoH = iCarrosDAO.cadastrarPedido(modeloH);
                 if (isCadastradoH) {
-                    JOptionPane.showMessageDialog(null, "Cliente cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Pedido cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
                 } else {
-                    JOptionPane.showMessageDialog(null, "Cliente ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Pedido ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
                 }
 
                 break;
@@ -127,9 +127,9 @@ public class App {
 
                 Boolean isCadastradoF = iCarrosDAO.cadastrarPedido(modeloF);
                 if (isCadastradoF) {
-                    JOptionPane.showMessageDialog(null, "Cliente cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Pedido cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
                 } else {
-                    JOptionPane.showMessageDialog(null, "Cliente ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
+                    JOptionPane.showMessageDialog(null, "Pedido ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
                 }
                     break;
 
@@ -138,9 +138,9 @@ public class App {
 
                  Boolean isCadastradoV = iCarrosDAO.cadastrarPedido(modeloV);
                  if (isCadastradoV) {
-                            JOptionPane.showMessageDialog(null, "Cliente cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
+                            JOptionPane.showMessageDialog(null, "Pedido cadastrado com sucesso", "Sucesso", JOptionPane.INFORMATION_MESSAGE);
                  } else {
-                     JOptionPane.showMessageDialog(null, "Cliente ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
+                     JOptionPane.showMessageDialog(null, "Pedido ja está cadastrado", "Erro", JOptionPane.INFORMATION_MESSAGE);
 
                  }
                      break;

@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f0c5434-eaa5-47ec-a642-7196a59e0415" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TarefaGenerics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/dao/CarrosDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/dao/ICarrosDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/domain/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/domain/Ford.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/domain/Honda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/domain/Volkswagen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/merlo/generics/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/merlo/generics/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +34,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Repositório geral Git/Back-end/TarefaGenerics&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Repositório geral Git/Back-end/TarefaGenerics"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.merlo.generics.App" />
